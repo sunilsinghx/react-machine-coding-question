@@ -1,4 +1,4 @@
-Mini Assignmnet on React asked (YT Code for Interview)
+Mini Assignment on React asked (YT Code for Interview)
 
 1> create Trafic light that run endless with time interval
 we used switch statemwnt 
